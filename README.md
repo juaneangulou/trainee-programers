@@ -16,4 +16,10 @@ Seguir en este orden los siguientes cursos:
 ## 2 Cursos Tecnicos
 2.1 -> Curso de GitHub :  https://www.youtube.com/watch?v=VdGzPZ31ts8
 2.2 -> Curso de  programacion basica: https://platzi.com/cursos/programacion-basica/
+2.3 -> Curso Completo de Javascript desde Cero
+ https://www.youtube.com/watch?v=Eh-s-n_6zNQ&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G
+### Cursos Angular 
+2.4.1 Aprende ANGULAR 17 desde cero para principiantes GRATIS:
+ https://www.youtube.com/watch?v=f7unUpshmpA&pp=ygUNY3Vyc28gYW5ndWxhcg%3D%3D
+2.4.2 ANGULAR desde cero | Curso tutorial completo gratis por Sergie Code: https://www.youtube.com/watch?v=soInCF7nbDw
 
