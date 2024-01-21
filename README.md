@@ -18,8 +18,26 @@ Seguir en este orden los siguientes cursos:
 2.2 -> Curso de  programacion basica: https://platzi.com/cursos/programacion-basica/
 2.3 -> Curso Completo de Javascript desde Cero
  https://www.youtube.com/watch?v=Eh-s-n_6zNQ&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G
-### Cursos Angular 
+### 2.4 Cursos Angular 
 2.4.1 Aprende ANGULAR 17 desde cero para principiantes GRATIS:
  https://www.youtube.com/watch?v=f7unUpshmpA&pp=ygUNY3Vyc28gYW5ndWxhcg%3D%3D
 2.4.2 ANGULAR desde cero | Curso tutorial completo gratis por Sergie Code: https://www.youtube.com/watch?v=soInCF7nbDw
+
+### 2.5 Cursos ReactJs 
+2.5.1 Curso de React [2023]: De cero hasta crear tus primeros componentes con estado: https://www.youtube.com/watch?v=7iobxzd_2wY&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29
+2.5.2 REACT JS desde cero | Curso tutorial completo gratis por Sergie Code https://www.youtube.com/watch?v=ladwC6Lrs-M
+
+### 2.6 Cursos NodeJs
+
+2.6.1  Curso de Nodejs: Rest Api con express y Mysql, | CRUD | https://www.youtube.com/watch?v=F5oOq-FWUl4&list=PLnfMiP0v59hAUA6QJNKBwKJyq5_gFkCYL
+2.6.2   Creando una REST API de Nodejs y Mongodb con ChatGPT:    https://www.youtube.com/watch?v=NJJ6ZDTDseg
+
+### 2.7 Curso de Dotnet
+2.7.1  APRENDE a PROGRAMAR en C# Desde CERO https://www.youtube.com/watch?v=SXO2izdW398&list=PL8gxzfBmzgexdFa0XZZSZZn2Ogx3j-Qd5
+2.7.2  Curso Avanzado de  Dotnet C Sharp, Docker, Instalacion de flutter,  Git, SQL Server  EF framework y  una breve introduccion  al Clean architecture https://www.youtube.com/playlist?list=PL5oPNTwQiIK2TAUa6j1r_xX3743S8Cclf
+
+### 2.8 Curso de Python
+2.8.1 Curso basico Python https://www.youtube.com/watch?v=Kp4Mvapo5kc
+2.8.2 REST API con Python, Flask y PostgreSQL | Crea y Prueba tu REST API (GET, POST, PUT, DELETE) https://www.youtube.com/watch?v=riijt-xcqYI
+2.8.3 🔴Desarrollando una API REST con Flask para gestionar una lista de contactos https://www.youtube.com/watch?v=tcGtwhaRmok
 
