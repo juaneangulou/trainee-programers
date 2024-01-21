@@ -41,3 +41,6 @@ Seguir en este orden los siguientes cursos:
 2.8.2 REST API con Python, Flask y PostgreSQL | Crea y Prueba tu REST API (GET, POST, PUT, DELETE) https://www.youtube.com/watch?v=riijt-xcqYI
 2.8.3 🔴Desarrollando una API REST con Flask para gestionar una lista de contactos https://www.youtube.com/watch?v=tcGtwhaRmok
 
+### 3 Curso de diseno UI/UX
+3.1 Curso de UI/UX https://www.youtube.com/watch?v=9z1IhqGQ--c&list=PL65OIoU7mGjKrKnd7anVKTzN9x8gDbdEU
+3.2 Curso de figma https://www.youtube.com/watch?v=_c26Fyi7RFA&list=PLvq-jIkSeTUbpfewvbKLhHctdkgadAy-K
