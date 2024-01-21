@@ -48,3 +48,20 @@ Seguir en este orden los siguientes cursos:
 ## 3 Curso de diseno UI/UX
 3.1 Curso de UI/UX https://www.youtube.com/watch?v=9z1IhqGQ--c&list=PL65OIoU7mGjKrKnd7anVKTzN9x8gDbdEU
 3.2 Curso de figma https://www.youtube.com/watch?v=_c26Fyi7RFA&list=PLvq-jIkSeTUbpfewvbKLhHctdkgadAy-K
+
+## 4 Patrones de dise;o
+
+Independientemente el lenguajes o el stack que selecciones  TIENES  que  aprender SI o SI  el tema de los patrones de dise;o a  FONDO  aca te  dejo varios  videos  de patrones de dise;o
+4.1 Patrones de dise;o en C sharp : https://www.youtube.com/watch?v=K902i_tsXl0&list=PLWYKfSbdsjJiiaXNIW1OYhRnStsyGvr6t
+4.2 Patrones de dise;o en Java: https://www.youtube.com/playlist?list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL
+4.3 Patrones de dise;o en Javascript: https://www.youtube.com/playlist?list=PLWYKfSbdsjJiwd7H_eDd9WvyXKF8PRUIS
+4.4 En esta pagina podras  ir a fondo  y contiene ejemplos para multiples lenguajes de programacion : https://refactoring.guru/es/design-patterns
+
+## 5 Gestion de proyectos
+5.1 Scrum desde CERO - Consultoría a una Project Manager https://www.youtube.com/watch?v=-70UHvAxomA
+5.2 Concepto basicos de  Scrum https://www.youtube.com/playlist?list=PLbVp4-C0tw_0cfL0iybDFuHBTv7wVhdbk
+5.3 Resumido para el ambiente del desarrollo de software https://www.youtube.com/watch?v=XDOayQIuC78
+
+
+
+
